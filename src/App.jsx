@@ -6,7 +6,7 @@ import './App.css'
 
 function App() {
   const element1 = <h1>Kantin Nasywa</h1>;
-  const element2 = <p>Selamat <Pagi></Pagi></p>;
+  const element2 = <p>Selamat Pagi</p>;
   const element3 = <p>Saldo awal kartu kantin: Rp12.000</p>;
 
   return (
