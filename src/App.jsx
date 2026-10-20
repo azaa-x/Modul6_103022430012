@@ -2,7 +2,7 @@ import { useState } from "react";
 import heroImg from "./assets/hero.png";
 import reactLogo from "./assets/react.svg";
 import viteLogo from "./assets/vite.svg";
-import "./App.css";
+import KartuMenu from "./assets/components/KartuMenu";
 
 function App() {
   const element1 = <h1>Kantin Nasywa</h1>;
